@@ -1,0 +1,7 @@
+{
+  "name": "SceneLoader.EventBus",
+  "rootNamespace": "SceneLoader.Integrations",
+  "references": ["SceneLoader", "EventSystem"],
+  "defineConstraints": ["SCENELOADER_EVENTBUS"],
+  "versionDefines": [{ "name": "com.kameryurdakull.eventbus", "expression": "1.0.0", "define": "SCENELOADER_EVENTBUS" }]
+}

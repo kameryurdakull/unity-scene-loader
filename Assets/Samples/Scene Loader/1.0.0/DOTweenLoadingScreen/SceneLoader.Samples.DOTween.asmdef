@@ -1,0 +1,6 @@
+{
+  "name": "SceneLoader.Samples.DOTween",
+  "references": ["SceneLoader", "UniTask", "Unity.ugui"],
+  "overrideReferences": true,
+  "precompiledReferences": ["DOTween.dll"]
+}

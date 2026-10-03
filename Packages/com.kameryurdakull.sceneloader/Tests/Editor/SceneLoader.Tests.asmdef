@@ -1,0 +1,6 @@
+{
+  "name": "SceneLoader.Tests",
+  "references": ["SceneLoader", "UniTask"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

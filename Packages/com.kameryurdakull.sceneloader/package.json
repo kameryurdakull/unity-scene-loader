@@ -1,0 +1,14 @@
+{
+  "name": "com.kameryurdakull.sceneloader",
+  "version": "1.0.0",
+  "displayName": "Scene Loader",
+  "description": "Small UniTask scene transition service with asset references, loading screens and optional VContainer/Event Bus integration.",
+  "unity": "2022.3",
+  "author": { "name": "Kamer Yurdakull", "url": "https://github.com/kameryurdakull" },
+  "documentationUrl": "https://github.com/kameryurdakull/unity-scene-loader#readme",
+  "license": "MIT",
+  "samples": [
+    { "displayName": "DOTween Loading Screen", "description": "Persistent CanvasGroup loading screen. Requires DOTween and uGUI.", "path": "Samples~/DOTweenLoadingScreen" },
+    { "displayName": "VContainer Bootstrap", "description": "Root LifetimeScope registration and typed transition subscriptions. Requires VContainer and Event Bus.", "path": "Samples~/VContainerBootstrap" }
+  ]
+}

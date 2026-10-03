@@ -1,0 +1,7 @@
+{
+  "name": "SceneLoader.VContainer",
+  "rootNamespace": "SceneLoader.Integrations",
+  "references": ["SceneLoader", "VContainer"],
+  "defineConstraints": ["SCENELOADER_VCONTAINER"],
+  "versionDefines": [{ "name": "jp.hadashikick.vcontainer", "expression": "1.19.0", "define": "SCENELOADER_VCONTAINER" }]
+}

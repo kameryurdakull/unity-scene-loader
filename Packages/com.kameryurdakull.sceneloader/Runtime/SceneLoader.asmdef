@@ -1,0 +1,6 @@
+{
+  "name": "SceneLoader",
+  "rootNamespace": "SceneLoader",
+  "references": ["UniTask"],
+  "autoReferenced": true
+}

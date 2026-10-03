@@ -1,0 +1,6 @@
+{
+  "name": "SceneLoader.Editor",
+  "rootNamespace": "SceneLoader.Editor",
+  "references": ["SceneLoader"],
+  "includePlatforms": ["Editor"]
+}

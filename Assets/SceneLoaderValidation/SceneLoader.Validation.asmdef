@@ -1,0 +1,5 @@
+{
+  "name": "SceneLoader.Validation",
+  "references": ["SceneLoader", "UniTask", "Unity.ugui", "SceneLoader.Samples.DOTween"],
+  "defineConstraints": ["UNITY_EDITOR"]
+}

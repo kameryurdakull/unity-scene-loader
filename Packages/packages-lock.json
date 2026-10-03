@@ -31,6 +31,12 @@
       "dependencies": {},
       "hash": "d00c712cd8d29f7dd69cc701c172decaf734bdb5"
     },
+    "com.kameryurdakull.sceneloader": {
+      "version": "file:com.kameryurdakull.sceneloader",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.12",
       "depth": 0,

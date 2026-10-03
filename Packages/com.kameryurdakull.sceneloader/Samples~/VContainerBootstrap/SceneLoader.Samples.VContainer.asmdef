@@ -1,0 +1,4 @@
+{
+  "name": "SceneLoader.Samples.VContainer",
+  "references": ["SceneLoader", "SceneLoader.VContainer", "SceneLoader.EventBus", "UniTask", "VContainer", "EventSystem"]
+}
